@@ -1,0 +1,15 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.anchor:target {
+    padding-top: 120px;
+}
+
+.navbar-brand img {
+    max-height: 80px;
+}
+
+.games .card {
+    max-width: 460px;
+}
